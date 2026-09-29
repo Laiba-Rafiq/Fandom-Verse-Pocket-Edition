@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "22364939990",
+    "project_id": "fandom-verse-8adde",
+    "storage_bucket": "fandom-verse-8adde.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22364939990:android:d079645b00de6c80984b77",
+        "android_client_info": {
+          "package_name": "com.techwiz.fandom_verse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22364939990-om2lrf2lh1bu74238rmfg44bi2p5uhmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techwiz.fandom_verse",
+            "certificate_hash": "c3fe45bd7251e42b4f510d6abf1978bcd5139820"
+          }
+        },
+        {
+          "client_id": "22364939990-pjtcm17a90pl12mh36g095hapteekd6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9-Hk8nccEo2YO0TgrVOqKRktpHa2Tk04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22364939990-pjtcm17a90pl12mh36g095hapteekd6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22364939990-4gfpt8ul2a55gnabrde9i9b83vnvgbmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techwiz.fandomVerse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
